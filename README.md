@@ -15,9 +15,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
