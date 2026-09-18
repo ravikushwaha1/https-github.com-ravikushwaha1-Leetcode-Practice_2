@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0044-wildcard-matching) |
+| [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0044-wildcard-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
