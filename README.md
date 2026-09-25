@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0085-maximal-rectangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1004-max-consecutive-ones-iii) |
