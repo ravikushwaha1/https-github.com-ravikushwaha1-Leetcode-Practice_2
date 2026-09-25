@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0765-couples-holding-hands](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0765-couples-holding-hands) |
 ## Breadth-First Search
 |  |
@@ -186,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0085-maximal-rectangle) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
