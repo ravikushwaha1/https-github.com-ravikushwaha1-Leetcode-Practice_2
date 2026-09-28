@@ -1,0 +1,35 @@
+import java.util.*;
+
+class Solution {
+    public List<String> wordBreak(String s, List<String> wordDict) {
+        Set<String> wordSet = new HashSet<>(wordDict);
+        Map<Integer, List<String>> memo = new HashMap<>();
+        return backtrack(s, 0, wordSet, memo);
+    }
+
+    private List<String> backtrack(String s, int start, Set<String> wordSet, Map<Integer, List<String>> memo) {
+        if (memo.containsKey(start)) {
+            return memo.get(start);
+        }
+
+        List<String> result = new ArrayList<>();
+
+        if (start == s.length()) {
+            result.add("");
+            return result;
+        }
+
+        for (int end = start + 1; end <= s.length(); end++) {
+            String prefix = s.substring(start, end);
+            if (wordSet.contains(prefix)) {
+                List<String> subList = backtrack(s, end, wordSet, memo);
+                for (String sub : subList) {
+                    result.add(prefix + (sub.isEmpty() ? "" : " " + sub));
+                }
+            }
+        }
+
+        memo.put(start, result);
+        return result;
+    }
+}
