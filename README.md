@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2574-left-and-right-sum-differences) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1096-brace-expansion-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/3525-find-x-value-of-array-ii) |
 ## Matrix
 |  |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0295-find-median-from-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
