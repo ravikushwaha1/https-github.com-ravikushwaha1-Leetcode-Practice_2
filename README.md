@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2104-sum-of-subarray-ranges](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1096-brace-expansion-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2747-count-zero-request-servers](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0295-find-median-from-data-stream) |
 | [0472-concatenated-words](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0472-concatenated-words) |
 | [1096-brace-expansion-ii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1096-brace-expansion-ii) |
+| [2747-count-zero-request-servers](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2747-count-zero-request-servers](https://github.com/ravikushwaha1/https-github.com-ravikushwaha1-Leetcode-Practice_2/tree/master/2747-count-zero-request-servers) |
 ## Stack
 |  |
 | ------- |
